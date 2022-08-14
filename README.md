@@ -1,2 +1,2 @@
 # Wound_Image_Segmentation_Unet
-Image segmentation
+Wound image segmentation using unet architecture
